@@ -11,5 +11,5 @@ https://howtodoinjava.com/swagger2/swagger-spring-mvc-rest-example/
 This dependency will remove boiler plate code from your java project.
 https://springframework.guru/spring-boot-with-lombok-part-1/
 
-Stub =  Will be only used in unit testing
+Stub =  Will be only used in unit testing ( Class that will return some kind of dumy data)
 

@@ -12,4 +12,9 @@ This dependency will remove boiler plate code from your java project.
 https://springframework.guru/spring-boot-with-lombok-part-1/
 
 Stub =  Will be only used in unit testing ( Class that will return some kind of dumy data)
+You create 
+
+mockito=
+
+1) Nice Mock = When a method which is not declare mockito will send default value 
 

@@ -18,3 +18,13 @@ mockito=
 
 1) Nice Mock = When a method which is not declare mockito will send default value 
 
+BDD
+Behaviour deriven develpment
+
+Given = Deine setup (Mock is also part o set up)
+When =  Retrieve data using mock
+Then =  Assert() are defined under this
+
+When ever a definition is given you suppose to divide that in three parts. When and Then will solve the problem
+
+
